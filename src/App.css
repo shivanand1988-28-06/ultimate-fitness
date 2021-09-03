@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+#first{
+   background-image:linear-gradient(180deg,#012001,#410441);
+    display:flex;
+    justify-content:space-between;
+    
+}
+
+#secondchi{
+  
+    color: #c91b29;
+    margin-top: 60px;
+}
+#secondchi >h3{
+    color: #0a7922;
+   text-align: center;
+   text-decoration: underline;
+   text-decoration-color: beige;
+}
+#thirdchi{
+    margin-top:30px;
+    margin-right:40px;
+}
+.gap{
+    height:5px;
+    width:100%;
+    background-color:magenta
+    
+}
+#firstchi> p{
+    margin-left: 30px;
+    color: rgb(228, 85, 85);
+}
+     .mainh{
+        
+        margin-top: 40%;
+  text-align:center;
+
+}
